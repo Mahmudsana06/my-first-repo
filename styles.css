@@ -10,3 +10,6 @@ body {
     border: 1px solid green;
     background-color: wheat;
   }
+  #span1{
+    font-style: italic;
+  }
